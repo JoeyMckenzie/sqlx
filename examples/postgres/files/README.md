@@ -1,4 +1,4 @@
-# TODOs Example
+# Query files Example
 
 ## Description
 

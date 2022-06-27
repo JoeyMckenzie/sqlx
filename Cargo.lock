@@ -2429,6 +2429,7 @@ dependencies = [
 name = "sqlx-bench"
 version = "0.1.0"
 dependencies = [
+ "chrono",
  "criterion",
  "dotenv",
  "once_cell",

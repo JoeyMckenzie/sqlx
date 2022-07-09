@@ -10,7 +10,8 @@ pub struct Migration {
     pub description: Cow<'static, str>,
     pub migration_type: MigrationType,
     pub sql: Cow<'static, str>,
-    pub checksum: Cow<'static, [u8]>,
+    pub checksum: Cow<'static, [u8]>,:wq
+
 }
 
 impl Migration {
